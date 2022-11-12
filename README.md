@@ -1,5 +1,7 @@
+<p align="center"
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Kshitij's+profile!👋)](https://git.io/typing-svg)
+
 
 ** `Data Scientist (Developer/Analyst/Filmmaker)` **
 

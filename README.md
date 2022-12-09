@@ -17,12 +17,8 @@ _ _ _
 
 <!-- Adding LinkedIN  -->
 ### Connect with Me:
-<!-- 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/kshitijsalian#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/kshitijsalian#gh-dark-mode-only) -->
 
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px; />][linkedin]
 
 
 <br />

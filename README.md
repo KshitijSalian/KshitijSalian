@@ -17,9 +17,12 @@ _ _ _
 
 <!-- Adding LinkedIN  -->
 ### Connect with Me:
-
+<!-- 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/kshitijsalian#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/kshitijsalian#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/kshitijsalian#gh-dark-mode-only) -->
+
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 
 <br />
@@ -59,3 +62,5 @@ _ _ _
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KshitijSalian&theme=dark)](https://git.io/streak-stats)
 
 _ _ _
+
+[linkedin]: https://linkedin.com/in/kshitijsalian

@@ -15,11 +15,11 @@ _ _ _
 
 _ _ _
 
-<!-- Adding LinkedIN  -->
+<!-- LinkedIn -->
 ### Connect with Me:
 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px; />][linkedin]
 
+[<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br />
 

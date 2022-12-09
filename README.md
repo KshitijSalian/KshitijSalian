@@ -17,7 +17,9 @@ _ _ _
 
 ### Connect with me:
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />https://www.linkedin.com/in/kshitij-salian-35049422a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiB0iNRyESmO7YI9ink4yBA%3D%3D#gh-light-mode-only
+<a href=" https://www.linkedin.com/in/kshitijsalian?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4f58YOwQTESIu60HfFFBVA%3D%3D" target="_blank">
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />#gh-light-mode-only
+</a>
 
 <br />
 

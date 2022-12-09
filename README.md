@@ -17,11 +17,19 @@ _ _ _
 
 ### Connect with me:
 
- <div class="centerdiv>
-  <a href=" https://www.linkedin.com/in/kshitijsalian?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4f58YOwQTESIu60HfFFBVA%3D%3D" >
-  <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />https://www.linkedin.com/in/kshitijsalian?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4f58YOwQTESIu60HfFFBVA%3D%3D#gh-light-mode-only
-  </a>
+<!DOCTYPE html>
+<html>
+<head>
+     <title></title>
+</head>
+<body>
+<div class="centerdiv>
+    <a href=" https://www.linkedin.com/in/kshitijsalian?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4f58YOwQTESIu60HfFFBVA%3D%3D" >
+    <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />https://www.linkedin.com/in/kshitijsalian?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4f58YOwQTESIu60HfFFBVA%3D%3D#gh-light-mode-only
+    </a>
 </div>
+</body>
+</html>
 
 
 <br />
